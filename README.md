@@ -2,6 +2,12 @@
 
 This is a mod for Stardew Valley that replaces all fish data with fish that have their darting rate set to 50% of default. Otherwise the fish are identical to their defaults.
 
+Checked on 2025-07-13 with
+
+Stardew Valley 1.6.15  
+SMAPI 4.3.1  
+Content Patcher 2.7.3
+
 ## Instructions
 
 1. Install SMAPI
