@@ -1,0 +1,11 @@
+{
+    "Name": "50% Fish Darting",
+    "Author": "SpectacledBear",
+    "Version": "1.0.0",
+    "Description": "Reduces darting of fish by 50%",
+    "UniqueID": "SpectacledBear.Fish50PercentDart",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
