@@ -1,18 +1,20 @@
 # Fish Darting at 50% Mod
 
-This is a mod for Stardew Valley that replaces all fish data with fish that have their darting rate set to 50% of default. Otherwise the fish are identical to their defaults.
+This is a mod for the Stardew Valley game and its Stardew Valley Expanded mod that reduces the dart rate of all fish to 50% of default. Otherwise the fish are unmodified. There is one directory for the Stardew mod and another directory for the Stardew Valley Expanded mod.
 
-Checked on 2025-07-13 with
+Checked on 2026-08-23 with
 
-Stardew Valley 1.6.15  
-SMAPI 4.3.1  
-Content Patcher 2.7.3
+Stardew Valley 1.6.15
+SMAPI 4.5.2
+Content Patcher 2.9.1
+Stardew Valley Expanded 1.5.11
 
 ## Instructions
 
 1. Install SMAPI
 2. Install the Content Patcher mod
 3. Copy the `[CP] 50% Fish Difficulty` directory in this repostory to your `Mods` folder in Stardew
+4. (Optional) Copy the `[CP] 50% Fish Darting - SVE` directory in this repostory to your `Mods` folder in Stardew if you are using the Stardew Valley Expanded mod
 
 ## Reference
 
