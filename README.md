@@ -22,8 +22,9 @@ According to the [Modding:Fish data page](https://stardewvalleywiki.com/Modding:
 
 ## Resources
 
-* [SMAPI - Stardew Modding API](https://github.com/Pathoschild/SMAPI)
+* **[SMAPI - Stardew Modding API](https://github.com/Pathoschild/SMAPI)**
 * [Content Patcher mod](https://github.com/Pathoschild/StardewMods/tree/develop/ContentPatcher)
 * [Content Patcher Action EditData reference](https://github.com/Pathoschild/StardewMods/blob/develop/ContentPatcher/docs/author-guide/action-editdata.md)
+* [Stardew Valley Expanded mod](https://github.com/FlashShifter/StardewValleyExpanded)
 * [Stardew Valley wiki's Modding:Fish data page](https://stardewvalleywiki.com/Modding:Fish_data)
 * [XNB Extract tool](https://drive.google.com/drive/folders/17GtZ8KxpUaZusA89sxkgwIQteWCtKh01)
